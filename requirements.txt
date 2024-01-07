@@ -1,0 +1,6 @@
+swibots
+beautifulsoup4
+aiohttp
+playwright
+user_agent
+python-decouple
